@@ -4,7 +4,7 @@ I then created a migration contract that could be used to bootstrap initial capi
 
 
 ## Tech Stack
-- Javascript
+- Javascript/Typescript
 - HTML/CSS
 - Solidity
 - React
